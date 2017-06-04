@@ -5,6 +5,7 @@ tags = []
 title = "Willmz"
 url = "index.html"
 description = "Willmz.com has E-Mail, PGP, and other information for Willms."
+keywords = ["Willmz","Willms","Thomas Willms"]
 +++
 
 <center>

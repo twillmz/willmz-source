@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Willmz</title>
+    <link>https://willmz.com/</link>
+    <description>Recent content on Willmz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 May 2017 00:47:51 -0700</lastBuildDate>
+    
+	<atom:link href="https://willmz.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PGP Keys</title>
+      <link>https://willmz.com/pgp/</link>
+      <pubDate>Tue, 30 May 2017 00:10:53 -0700</pubDate>
+      
+      <guid>https://willmz.com/pgp/</guid>
+      <description>How to use PGP
+Thomas
+-----BEGIN PGP PUBLIC KEY BLOCK----- Version: GnuPG v2 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 xqW4QfObkbGD/w== =cY1+ -----END PGP PUBLIC KEY BLOCK-----</description>
+    </item>
+    
+  </channel>
+</rss>
