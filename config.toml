@@ -1,0 +1,10 @@
+baseURL = "https://willmz.com"
+languageCode = "en-us"
+title = "Willmz"
+theme = "beautifulhugo"
+
+
+[[menu.main]]
+    name = "PGP"
+    url = "/pgp"
+    weight = 1
