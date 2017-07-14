@@ -9,7 +9,7 @@ keywords = ["Willmz","Willms","Thomas Willms"]
 +++
 
 <center>
-![Willmz](https://willmz.com/images/transparent.png)
+![Willmz](/images/transparent.png)
 
 [Send an E-Mail](mailto:thomas@willmz.com)
 
